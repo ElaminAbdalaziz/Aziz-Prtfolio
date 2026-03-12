@@ -34,7 +34,7 @@ const AboutSection = () => (
             <Target className="text-primary mb-4" size={28} />
             <h3 className="font-heading font-semibold text-foreground mb-2">Career Goal</h3>
             <p className="text-sm text-muted-foreground">
-              Seeking an entry-level Back-End Developer role to build secure, scalable, and intelligent systems.
+              Seeking an entry-level Software Developer role to build secure, scalable, and intelligent systems.
             </p>
           </div>
         </div>

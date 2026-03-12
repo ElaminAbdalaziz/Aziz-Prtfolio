@@ -16,7 +16,7 @@ const ContactSection = () => (
         </h2>
         <div className="w-16 h-1 bg-primary rounded mb-8 mx-auto" />
         <p className="text-muted-foreground mb-10">
-          I'm currently looking for entry-level Back-End Developer opportunities. Feel free to reach out!
+          I'm currently looking for entry-level Software Developer opportunities. Feel free to reach out!
         </p>
 
         <div className="flex flex-col sm:flex-row gap-6 justify-center items-center">
