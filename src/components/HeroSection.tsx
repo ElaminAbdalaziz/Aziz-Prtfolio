@@ -5,7 +5,7 @@ import profileImg from "@/assets/profile.jpg";
 
 const taglines = [
   "Computer Science & AI Graduate",
-  "Back-End Focused Full-Stack Developer",
+  "Software Developer",
   "Building Secure & Scalable Solutions",
 ];
 
